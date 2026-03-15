@@ -8,7 +8,7 @@ This repository contains Python scripts demonstrating how to work with dates and
 ### 📖 Instructions & Downloads
 The detailed explanation for each script, as well as the official files for download, are available on our website.
 
-👉 **Download Center:** To download these programs and access full guides, please visit our dedicated section:
+👉 **Download:** To download these programs and access full guides, please visit our dedicated section:
 **[Download Center](https://kajotte-studio.com/index_download_en.html)**
 
 ---
