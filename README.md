@@ -49,5 +49,5 @@ Since 2020, **Kajotte Studio** has been bridging the gap between programming, ph
 <div align="center">
   <img src="https://img.shields.io/badge/License-MIT-black?style=flat-square" alt="MIT License" />
   <br />
-  <sub>© 2025 Kajotte Studio. Precision in every line.</sub>
+  <sub>© Kajotte Studio. Precision in every line.</sub>
 </div>
