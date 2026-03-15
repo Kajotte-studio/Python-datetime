@@ -27,6 +27,16 @@ This collection includes scripts covering:
    *Example: `python current_time.py`*
 3. **Support:** If you have trouble running the code, please refer to the full guide on our blog.
 
+## Open Source Philosophy (MIT License)
+We believe in the power of shared tools to drive the modern web forward. All resources within this documentation are released under the **MIT License**.
+
+**Your Rights:**
+✦ **Freedom to Modify:** Adapt the code to suit your specific creative or technical needs.
+✦ **Commercial Use:** Feel free to implement these tools in private or commercial client projects.
+✦ **Distribution:** Use these resources as a foundation for larger, more complex systems.
+
+*Note: We kindly ask that the original authorship notice (Kajotte Studio) remains in the source headers.*
+
 ---
 
 ### ✦ About Kajotte Studio
