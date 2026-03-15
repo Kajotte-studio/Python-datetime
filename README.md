@@ -1,4 +1,3 @@
-# python
 # 🐍 Python Learning Lab: Datetime Module
 **Official Code Samples for Kajotte Studio Educational Series**
 
