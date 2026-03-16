@@ -1,3 +1,4 @@
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-Kajotte--Studio-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/Kajotte-studio)
 # 🐍 Python Learning Lab: Datetime Module
 **Official Code Samples for Kajotte Studio Educational Series**
 
