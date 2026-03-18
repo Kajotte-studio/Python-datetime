@@ -1,4 +1,4 @@
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-Kajotte--Studio-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/Kajotte-studio)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-Kajotte--Studio-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://kajotte-studio.com/support_en.html)
 # 🐍 Python Learning Lab: Datetime Module
 **Official Code Samples for Kajotte Studio Educational Series**
 
@@ -36,6 +36,12 @@ We believe in the power of shared tools to drive the modern web forward. All res
 ✦ **Distribution:** Use these resources as a foundation for larger, more complex systems.
 
 *Note: We kindly ask that the original authorship notice (Kajotte Studio) remains in the source headers.*
+
+---
+### Support the project
+If you find this project useful, you can support its further development:
+- [Sponsor via GitHub](https://github.com/sponsors/Kajotte-studio) (Preferred for GitHub users)
+- [Support via Ko-fi / Stripe](https://ko-fi.com/kajottestudio) (No GitHub account required)
 
 ---
 
