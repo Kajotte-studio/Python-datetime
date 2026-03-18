@@ -43,6 +43,8 @@ This collection includes scripts covering:
    *Example: `python current_time.py`*
 3. **Support:** If you have trouble running the code, please refer to the full guide on our blog.
 
+---
+
 ## Open Source Philosophy (MIT License)
 We believe in the power of shared tools to drive the modern web forward. All resources within this documentation are released under the **MIT License**.
 
