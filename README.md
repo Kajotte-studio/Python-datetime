@@ -18,6 +18,18 @@ The detailed explanation for each script, as well as the official files for down
 
 ---
 
+## 🛡️ Quality & Security Standards
+
+Every commit is automatically audited to ensure the highest educational standards:
+
+* **Linter (Flake8):** Verifies code readability and PEP 8 compliance.
+* **Safety Check:** Scans dependencies for known vulnerabilities.
+* **Security Auditor (Bandit):** Analyzes source code for common security issues.
+
+Status: [![Python Quality Check](https://github.com/Kajotte-studio/python/actions/workflows/python-app.yml/badge.svg)](https://github.com/Kajotte-studio/python/actions)
+
+---
+
 ### 🛠️ What is inside?
 This collection includes scripts covering:
 * **Current State:** Fetching the current system time and date.
