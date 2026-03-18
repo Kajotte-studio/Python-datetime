@@ -1,5 +1,5 @@
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-Kajotte--Studio-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://kajotte-studio.com/support_en.html)
-![Python Quality Check](https://github.com/Kajotte-studio/python/actions/workflows/python-app.yml/badge.svg)
+[![Python Quality Check](https://github.com/Kajotte-studio/python/actions/workflows/python-app.yml/badge.svg)](https://github.com/Kajotte-studio/python/actions)
 # 🐍 Python Learning Lab: Datetime Module
 **Official Code Samples for Kajotte Studio Educational Series**
 
