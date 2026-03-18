@@ -32,6 +32,12 @@ jobs:
     - name: Check for vulnerabilities
       run: safety check
 
+    - name: Install Bandit
+      run: pip install bandit
+
+    - name: Security check with Bandit
+      run: bandit -r . -x ./.venv
+
     - name: Lint with flake8
       run: |
         # Stop the build if there are Python syntax errors or undefined names
