@@ -12,6 +12,9 @@ The detailed explanation for each script, as well as the official files for down
 👉 **Download:** To download these programs and access full guides, please visit our dedicated section:
 **[Download Center](https://kajotte-studio.com/index_download_en.html)**
 
+👉 **Information:** The datetime module is the core of Python's built-in standard library, providing precise classes for managing dates and times. It allows not only for easily retrieving the current moment but also for performing complex time arithmetic and formatting the results in any desired standard. Below, you will explore its key classes and see practical applications.
+**[BLOG](https://kajotte-studio.com/index_blog_post_28_en.html)**
+
 ---
 
 ### 🛠️ What is inside?
