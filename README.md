@@ -41,6 +41,7 @@ Every commit is automatically audited to ensure the highest educational standard
 * **Security Auditor (Bandit):** Analyzes source code for common security issues.
 
 ### Core Security Architecture
+
 This repository is protected and audited by the industry-standard security suite to ensure a safe learning environment for the community.
 
 * **GitHub CodeQL (Semantic Analysis):** We use the world’s most advanced semantic analysis engine to scan our codebase. CodeQL treats code as data, allowing us to find and fix complex security vulnerabilities and logical errors before they ever reach the main branch.
@@ -52,21 +53,31 @@ This repository is protected and audited by the industry-standard security suite
 ---
 
 ### 🛠️ What is inside?
-This collection includes scripts covering:
-* **Current State:** Fetching the current system time and date.
-* **Formatting:** Turning dates into human-readable text.
-* **Arithmetic:** Calculating time differences and countdowns.
-* **Timezones:** Managing time across different global regions.
+
+This collection includes professional-grade scripts covering:
+
+* **Current State:** Fetching the current system time and date with high precision.
+* **Formatting:** Turning raw data into human-readable text for various regions.
+* **Arithmetic:** Calculating complex time differences, intervals, and countdowns.
+* **Timezones:** Managing and converting time across different global regions securely.
+
+---
 
 ### 🚀 How to use
-1. **Get the files:** Download the programs via the **Download Center** on our website.
-2. **Run a script:** Open your terminal and type `python` followed by the file name. 
-   *Example: `python current_time.py`*
-3. **Support:** If you have trouble running the code, please refer to the full guide on our blog.
+
+Follow these steps to get the environment running on your machine:
+
+1. **Get the files:** * **The Framework (Recommended):** Download the latest [**v1.0.0 Release**](https://github.com/Kajotte-studio/Python-datetime/releases) as a `.zip` and extract it to your folder.
+   * **Single Script:** You can also download standalone `.py` files directly from our [**Download Center**](https://kajotte-studio.com/index_download_en.html#python) on the website.
+2. **Setup:** Open your terminal or command prompt and navigate to the folder containing the files.
+3. **Run a script:** Type `python` followed by the file name to see the results. 
+   * *Example:* `python current_time.py`
+4. **Support:** If you encounter any issues or need detailed explanations, please refer to the full guide on our [**Blog - All Programming Posts in One Place**](https://kajotte-studio.com/index_blog_post_proglist_en.html).
 
 ---
 
 ## Open Source Philosophy (MIT License)
+
 We believe in the power of shared tools to drive the modern web forward. All resources within this documentation are released under the **MIT License**.
 
 **Your Rights:**
@@ -78,19 +89,23 @@ We believe in the power of shared tools to drive the modern web forward. All res
 
 ---
 ### Support the project
+
 If you find this project useful, you can support its further development:
+
 - [Sponsor via GitHub](https://github.com/sponsors/Kajotte-studio) (Preferred for GitHub users)
 - [Support via Ko-fi / Stripe](https://ko-fi.com/kajottestudio) (No GitHub account required)
 
 ---
 
 ### ✦ About Kajotte Studio
+
 Since 2020, **Kajotte Studio** has been bridging the gap between programming, photography, music production, and filmmaking. We believe in sharing knowledge through high-quality code and professional visual storytelling.
 
 * **Portfolio & Downloads:** [kajotte-studio.com](https://kajotte-studio.com)
 * **Inquiries:** [help@kajotte-studio.com](mailto:help@kajotte-studio.com)
 
 ---
+
 <div align="center">
   <img src="https://img.shields.io/badge/License-MIT-black?style=flat-square" alt="MIT License" />
   <br />
