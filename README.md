@@ -6,11 +6,18 @@ This repository contains Python scripts demonstrating how to work with dates and
 
 ---
 
-### 📖 Instructions & Downloads
-The detailed explanation for each script, as well as the official files for download, are available on our website.
+## 📥 Instructions & Downloads
 
-👉 **Download:** To download these programs and access full guides, please visit our dedicated section:
-**[Download Center](https://kajotte-studio.com/index_download_en.html)**
+There are two ways to access the **Kajotte Studio** educational materials. Choose the one that best fits your workflow:
+
+* **Individual Scripts (Quick Access):**
+    For a quick look at specific examples, you can find standalone `.py` files and detailed step-by-step guides in our [**Download Center**](https://kajotte-studio.com/index_download_en.html#python). Best for quick reference while reading the blog.
+
+* **Full Project Environment (Recommended):**
+    For a complete experience, we recommend downloading the official [**v1.0.0 Release**](https://github.com/Kajotte-studio/Python-datetime/releases). This package includes the entire **Secure & Educational Framework**, including the source code, security policies, and automated auditing configurations.
+    * *Simply download the `.zip` from the Assets section and you are ready to go with a pre-configured professional environment.*
+
+---
 
 👉 **Information:** The datetime module is the core of Python's built-in standard library, providing precise classes for managing dates and times. It allows not only for easily retrieving the current moment but also for performing complex time arithmetic and formatting the results in any desired standard. Below, you will explore its key classes and see practical applications.
 **[BLOG](https://kajotte-studio.com/index_blog_post_28_en.html)**
