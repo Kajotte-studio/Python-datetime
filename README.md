@@ -99,7 +99,7 @@ If you find this project useful, you can support its further development:
 
 ### ✦ About Kajotte Studio
 
-Since 2020, **Kajotte Studio** has been bridging the gap between programming, photography, music production, and filmmaking. We believe in sharing knowledge through high-quality code and professional visual storytelling.
+Since 2020, **Kajotte Studio** has been bridging the gap between programming, photography, music production, and filmmaking. We believe in sharing knowledge through high-quality code and professional visual storytelling. More information about us on [**this page**](https://kajotte-studio.com/index_info_en.html).
 
 * **Portfolio & Downloads:** [kajotte-studio.com](https://kajotte-studio.com)
 * **Inquiries:** [help@kajotte-studio.com](mailto:help@kajotte-studio.com)
