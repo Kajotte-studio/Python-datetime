@@ -33,6 +33,15 @@ Every commit is automatically audited to ensure the highest educational standard
 * **Safety Check:** Scans dependencies for known vulnerabilities.
 * **Security Auditor (Bandit):** Analyzes source code for common security issues.
 
+### Core Security Architecture
+This repository is protected and audited by the industry-standard security suite to ensure a safe learning environment for the community.
+
+* **GitHub CodeQL (Semantic Analysis):** We use the world’s most advanced semantic analysis engine to scan our codebase. CodeQL treats code as data, allowing us to find and fix complex security vulnerabilities and logical errors before they ever reach the main branch.
+* **Dependabot (Supply Chain Security):** To prevent "supply chain attacks," Dependabot constantly monitors all our dependencies. It automatically identifies outdated or vulnerable libraries and generates pull requests to keep our environment hardened and up-to-date.
+* **Advanced Security Reporting:** We have enabled Private Vulnerability Reporting, allowing security researchers to communicate with us discreetly. This ensures that any potential issues are handled professionally and securely, protecting all users of the Kajotte Studio ecosystem.
+
+
+
 ---
 
 ### 🛠️ What is inside?
