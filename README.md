@@ -76,7 +76,7 @@ Follow these steps to get the environment running on your machine:
 
 ---
 
-## Open Source Philosophy (MIT License)
+## Open Source Philosophy
 
 We believe in the power of shared tools to drive the modern web forward. All resources within this documentation are released under the **MIT License**.
 
