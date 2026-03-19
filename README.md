@@ -52,7 +52,7 @@ This repository is protected and audited by the industry-standard security suite
 
 ---
 
-### 🛠️ What is inside?
+### 🛠️ What is Inside?
 
 This collection includes professional-grade scripts covering:
 
@@ -63,7 +63,7 @@ This collection includes professional-grade scripts covering:
 
 ---
 
-### 🚀 How to use
+### 🚀 How to Use
 
 Follow these steps to get the environment running on your machine:
 
@@ -88,7 +88,7 @@ We believe in the power of shared tools to drive the modern web forward. All res
 *Note: We kindly ask that the original authorship notice (Kajotte Studio) remains in the source headers.*
 
 ---
-### Support the project
+### Support the Project
 
 If you find this project useful, you can support its further development:
 
