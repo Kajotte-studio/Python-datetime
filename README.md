@@ -18,8 +18,12 @@ The detailed explanation for each script, as well as the official files for down
 ---
 
 ![Release](https://img.shields.io/github/v/release/Kajotte-studio/Python-datetime?include_prereleases&label=Release&color=blue)
+<img src="https://img.shields.io/badge/License-MIT-black?style=flat-square" alt="MIT License" />
 ![Dependabot](https://img.shields.io/badge/Dependabot-Active-0250a3?style=flat&logo=dependabot)
 ![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
+[![Python Quality Check](https://github.com/Kajotte-studio/python/actions/workflows/python-app.yml/badge.svg)](https://github.com/Kajotte-studio/python/actions)
+![Code Quality](https://github.com/Kajotte-studio/Python-datetime/workflows/CodeQL/badge.svg)
+![Security Policy](https://img.shields.io/badge/Security-Policy%20Active-success?style=flat&logo=github-security)
 
 ## 🛡️ Quality & Security Standards
 
@@ -28,10 +32,6 @@ Every commit is automatically audited to ensure the highest educational standard
 * **Linter (Flake8):** Verifies code readability and PEP 8 compliance.
 * **Safety Check:** Scans dependencies for known vulnerabilities.
 * **Security Auditor (Bandit):** Analyzes source code for common security issues.
-
-Status: [![Python Quality Check](https://github.com/Kajotte-studio/python/actions/workflows/python-app.yml/badge.svg)](https://github.com/Kajotte-studio/python/actions)
-![Code Quality](https://github.com/Kajotte-studio/Python-datetime/workflows/CodeQL/badge.svg)
-![Security Policy](https://img.shields.io/badge/Security-Policy%20Active-success?style=flat&logo=github-security)
 
 ---
 
