@@ -19,8 +19,8 @@ There are two ways to access the **Kajotte Studio** educational materials. Choos
 
 ---
 
-👉 **Information:** The datetime module is the core of Python's built-in standard library, providing precise classes for managing dates and times. It allows not only for easily retrieving the current moment but also for performing complex time arithmetic and formatting the results in any desired standard. Below, you will explore its key classes and see practical applications.
-**[BLOG](https://kajotte-studio.com/index_blog_post_28_en.html)**
+👉 **Information:** The datetime module is the core of Python's built-in standard library, providing precise classes for managing dates and times. It allows not only for easily retrieving the current moment but also for performing complex time arithmetic and formatting the results in any desired standard. 
+**[BLOG - post datetime](https://kajotte-studio.com/index_blog_post_28_en.html)**
 
 ---
 
