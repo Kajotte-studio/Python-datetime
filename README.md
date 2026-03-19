@@ -76,7 +76,7 @@ Follow these steps to get the environment running on your machine:
 
 ---
 
-## Open Source Philosophy
+## ⚖️ Open Source Philosophy (MIT License)
 
 We believe in the power of shared tools to drive the modern web forward. All resources within this documentation are released under the **MIT License**.
 
@@ -88,7 +88,7 @@ We believe in the power of shared tools to drive the modern web forward. All res
 *Note: We kindly ask that the original authorship notice (Kajotte Studio) remains in the source headers.*
 
 ---
-### Support the Project
+### 🤝 Support the Project
 
 If you find this project useful, you can support its further development:
 
