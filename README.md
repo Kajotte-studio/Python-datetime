@@ -18,7 +18,6 @@ The detailed explanation for each script, as well as the official files for down
 ---
 
 ![Release](https://img.shields.io/github/v/release/Kajotte-studio/Python-datetime?include_prereleases&label=Release&color=blue)
-![Security Policy](https://img.shields.io/badge/Security-Policy%20Active-success?style=flat&logo=github-security)
 ![Dependabot](https://img.shields.io/badge/Dependabot-Active-0250a3?style=flat&logo=dependabot)
 ![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 
@@ -32,6 +31,7 @@ Every commit is automatically audited to ensure the highest educational standard
 
 Status: [![Python Quality Check](https://github.com/Kajotte-studio/python/actions/workflows/python-app.yml/badge.svg)](https://github.com/Kajotte-studio/python/actions)
 ![Code Quality](https://github.com/Kajotte-studio/Python-datetime/workflows/CodeQL/badge.svg)
+![Security Policy](https://img.shields.io/badge/Security-Policy%20Active-success?style=flat&logo=github-security)
 
 ---
 
