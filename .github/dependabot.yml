@@ -6,11 +6,5 @@ updates:
       interval: "weekly"
       day: "monday"
     open-pull-requests-limit: 5 # Maksymalnie 5 otwartych PR naraz (minimalizm!)
-    
-    # Grupowanie poprawek bezpieczeństwa, aby nie zaśmiecać listy PR-ów
-    groups:
-      security-updates:
-        patterns:
-          - "*"
-        update-types:
-          - "security"
+    open-pull-requests-limit: 10
+    target-branch: "main"
