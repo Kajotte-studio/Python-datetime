@@ -5,6 +5,5 @@ updates:
     schedule:
       interval: "weekly"
       day: "monday"
-    open-pull-requests-limit: 5 # Maksymalnie 5 otwartych PR naraz (minimalizm!)
     open-pull-requests-limit: 10
     target-branch: "main"
