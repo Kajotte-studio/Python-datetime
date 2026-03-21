@@ -28,7 +28,7 @@ There are two ways to access the **Kajotte Studio** educational materials. Choos
 <img src="https://img.shields.io/badge/License-MIT-black?style=flat-square" alt="MIT License" />
 ![Dependabot](https://img.shields.io/badge/Dependabot-Active-0250a3?style=flat&logo=dependabot)
 ![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
-[![Python Quality Check](https://github.com/Kajotte-studio/python/actions/workflows/python-app.yml/badge.svg)](https://github.com/Kajotte-studio/python/actions)
+[![Python Quality Check](https://github.com/Kajotte-studio/python-datetime/actions/workflows/python-app.yml/badge.svg)](https://github.com/Kajotte-studio/python-datetime/actions)
 ![Code Quality](https://github.com/Kajotte-studio/Python-datetime/workflows/CodeQL/badge.svg)
 ![Security Policy](https://img.shields.io/badge/Security-Policy%20Active-success?style=flat&logo=github-security)
 
