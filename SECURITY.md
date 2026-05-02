@@ -2,7 +2,7 @@
 
 If you discover a security vulnerability within the **Python Learning Lab: Datetime Module**, please report it privately to maintain the safety of our community.
 
-1. **Email:** Send your report to [support@kajotte-studio.com](mailto:support@kajotte-studio.com).
+1. **Email:** Send your report to [help@kajotte-studio.com](mailto:help@kajotte-studio.com).
 2. **Subject:** Use `Vulnerability Report: Python-datetime`.
 3. **Content:** Include a description of the issue and steps to reproduce it.
 
