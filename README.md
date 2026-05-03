@@ -25,7 +25,7 @@ There are two ways to access the **Kajotte Studio** educational materials. Choos
 ---
 
 ![Release](https://img.shields.io/github/v/release/Kajotte-studio/Python-datetime?include_prereleases&label=Release&color=blue)
-<img src="https://img.shields.io/badge/License-MIT-black?style=flat-square" alt="MIT License" />
+![GitHub License](https://img.shields.io/github/license/Kajotte-studio/Python-datetime?color=orange)
 ![Dependabot](https://img.shields.io/badge/Dependabot-Active-0250a3?style=flat&logo=dependabot)
 ![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 [![Python Quality Check](https://github.com/Kajotte-studio/python-datetime/actions/workflows/python-app.yml/badge.svg)](https://github.com/Kajotte-studio/python-datetime/actions)
