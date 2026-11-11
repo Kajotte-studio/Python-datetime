@@ -67,7 +67,7 @@ This collection includes professional-grade scripts covering:
 
 Follow these steps to get the environment running on your machine:
 
-1. **Get the files:** * **The Framework (Recommended):** Download the latest [**v1.0.0 Release**](https://github.com/Kajotte-studio/Python-datetime/releases) as a `.zip` and extract it to your folder.
+1. **Get the files:** * **The Framework (Recommended):** Download the latest [**v1.0.1 Release**](https://github.com/Kajotte-studio/Python-datetime/releases) as a `.zip` and extract it to your folder.
    * **Single Script:** You can also download standalone `.py` files directly from our [**Download Center**](https://kajotte-studio.com/index_download_en.html#python) on the website.
 2. **Setup:** Open your terminal or command prompt and navigate to the folder containing the files.
 3. **Run a script:** Type `python` followed by the file name to see the results. 
